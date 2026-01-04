@@ -1,0 +1,5 @@
+{
+  "name": "FinanceArch - DB Schema Architect",
+  "description": "A professional tool for designing and generating robust database schemas for personal finance applications, featuring AI-powered architectural insights and SQL/Django model generation.",
+  "requestFramePermissions": []
+}
